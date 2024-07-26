@@ -57,6 +57,9 @@ php artisan test
 
 5. comando com php artisan passam a ser sail artisan
 
+6. Para iniciar o projeto acesse:
+localhost/produtos
+
 ## Funcionalidades
 Filtragem por Nome do Produto
 Filtragem por Categoria(s)
