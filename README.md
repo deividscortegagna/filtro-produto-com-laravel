@@ -13,7 +13,7 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/deividscortegagna/filtro-produto-com-laravel.git
-   cd mecanismo-de-busca
+   cd filtro-produto-com-laravel
 
 2. Instale as dependências do PHP:
 terminal
